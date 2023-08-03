@@ -1,0 +1,4 @@
+for i in 'cat 1234'
+do
+operations
+done
