@@ -1,8 +1,5 @@
-for i in 'cat 1234'
-do
-operations
-done
 
+Welcome to the devops program
 
 
 for i in 'cat 12345'
@@ -10,8 +7,3 @@ do
 operations
 done
 
-
-for i in 'cat 123456'
-do
-opertaions
-done
